@@ -84,3 +84,13 @@ cmake --build build --config Release
 - `docs/ARCHITECTURE.md`
 - `docs/REPORT_NOTES.md`
 - `docs/CONTROL_QUESTIONS.md`
+
+## Скриншоты
+
+### Меню
+
+![Menu state](docs/screenshots/menu.jpg)
+
+### Игровой режим
+
+![Gameplay state](docs/screenshots/gameplay.jpg)
