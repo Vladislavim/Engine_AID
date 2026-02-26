@@ -14,6 +14,16 @@
 - тестовым примитивом в окне;
 - обработкой клавиатуры и мыши (дополнительное задание).
 
+## Скриншоты
+
+### Меню
+
+<img src="docs/screenshots/menu.jpg" alt="Menu state" width="700">
+
+### Игровой режим
+
+<img src="docs/screenshots/gameplay.jpg" alt="Gameplay state" width="700">
+
 ## Технологии
 
 - `C++17`
@@ -84,13 +94,3 @@ cmake --build build --config Release
 - `docs/ARCHITECTURE.md`
 - `docs/REPORT_NOTES.md`
 - `docs/CONTROL_QUESTIONS.md`
-
-## Скриншоты
-
-### Меню
-
-![Menu state](docs/screenshots/menu.jpg)
-
-### Игровой режим
-
-![Gameplay state](docs/screenshots/gameplay.jpg)
